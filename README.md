@@ -1,7 +1,6 @@
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h2>DATE: 08/09/2025 </h2>
-<h3>Name: Hanshika Varthini R </h3>
+<h2>Name: Hanshika Varthini R </h2>
 <h3>Register Number: 212223240046 </h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
